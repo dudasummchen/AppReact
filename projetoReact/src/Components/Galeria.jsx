@@ -25,3 +25,17 @@ descricao: 'Cards organizados para apresentar imagens e informações.',
  <span>Galeria</span>
  <h2>Resultado visual da Home</h2>
  </div>
+<div className="grade-fotos">
+{fotos.map((foto) => (
+ <CardFoto
+ key={foto.titulo}
+ imagem={foto.imagem}
+titulo={foto.titulo}
+descricao={foto.descricao}
+ />
+))}
+</div>
+</section>
+)
+ }
+ export default Galeria
