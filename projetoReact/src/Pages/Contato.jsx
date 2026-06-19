@@ -1,6 +1,6 @@
 import Container from '../Components/Container.jsx'
 import SecaoTexto from '../Components/SecaoTexto.jsx'
-import Botao from '../Cmponents/Botao.jsx'
+import Botao from '../Components/Botao.jsx'
  function Contato() {
  return (
  <Container>

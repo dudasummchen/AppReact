@@ -8,4 +8,4 @@ function SecaoTexto({ titulo, texto }) {
  )
  }
 
-export default SecaoText
+export default SecaoTexto

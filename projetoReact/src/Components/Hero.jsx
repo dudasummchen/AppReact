@@ -5,10 +5,11 @@ return (
 <section className="hero">
 <div className="hero-conteudo">
 <span className="etiqueta">Projeto guiado em React</span>
- <h1>Construa seu primeiro site com componentes</h1>
+ <h1>Do Café ao Caramelo: Acessórios que Transformam o Look</h1>
  <p>
- Aprenda a montar uma interface com Header, Menu, Hero, Galeria,
- páginas e Footer usando React, JavaScript e CSS.
+ Em 2026, o marrom se destaca como uma das principais tendências em acessórios,
+ trazendo uma estética elegante, natural e atemporal. Versátil e sofisticado, ele se torna o novo neutro da moda, 
+ combinando com tudo e valorizando visuais mais minimalistas e autênticos.
 </p>
 <Botao texto="Começar agora" />
  </div>
